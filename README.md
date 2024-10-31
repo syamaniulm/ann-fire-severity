@@ -13,7 +13,7 @@ matplotlib <br/>
 pickle <br/>
 tqdm <br/>
 
-These codes are the output of a research entitled GeoAI for Disaster Mitigation: Fire Severity Prediction Models using Sentinel-2 and ANN Regression (https://ieeexplore.ieee.org/document/9993515). The research was conducted on the island of Borneo, specifically South Kalimantan. So the model is trained with the characteristics of vegetation and fires in this area. If you use this model in an area that has vegetation and fire characteristics similar to South Kalimantan, then you can directly use the pre-trained model. However, if you use the model in an area that has different vegetation and fire characteristics, then you are highly recommended to retrain the model in your study area.<br/>
+These codes are the output of a research entitled GeoAI for Disaster Mitigation: Fire Severity Prediction Models using Sentinel-2 and ANN Regression (https://ieeexplore.ieee.org/document/9993515). The research was conducted on the island of Borneo, specifically South Kalimantan, Indonesia. Therefore, the model was trained with the characteristics of vegetation and fires in this area. If you use this model in an area that has vegetation and fire characteristics similar to South Kalimantan, then you can directly use the pre-trained model. However, if you use the model in an area that has different vegetation and fire characteristics, then you are highly recommended to retrain the model in your study area.<br/>
 
 ## Fire Severity Prediction
 
